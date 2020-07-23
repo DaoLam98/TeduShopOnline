@@ -10,3 +10,19 @@ c:\Users\dao_van_lam\documents\visual studio 2015\Projects\TeduShop\TeduShop.Dat
 c:\Users\dao_van_lam\documents\visual studio 2015\Projects\TeduShop\TeduShop.Data\obj\Debug\TeduShop.Data.csprojResolveAssemblyReference.cache
 c:\Users\dao_van_lam\documents\visual studio 2015\Projects\TeduShop\TeduShop.Data\obj\Debug\TeduShop.Data.dll
 c:\Users\dao_van_lam\documents\visual studio 2015\Projects\TeduShop\TeduShop.Data\obj\Debug\TeduShop.Data.pdb
+F:\SourceTree\TeduShopOnline\TeduShop.Data\obj\Debug\TeduShop.Data.csprojResolveAssemblyReference.cache
+F:\SourceTree\TeduShopOnline\TeduShop.Data\obj\Debug\TeduShop.Data.dll
+F:\SourceTree\TeduShopOnline\TeduShop.Data\obj\Debug\TeduShop.Data.pdb
+F:\SourceTree\TeduShopOnline\TeduShop.Data\bin\Debug\TeduShop.Data.dll.config
+F:\SourceTree\TeduShopOnline\TeduShop.Data\bin\Debug\TeduShop.Data.dll
+F:\SourceTree\TeduShopOnline\TeduShop.Data\bin\Debug\TeduShop.Data.pdb
+F:\SourceTree\TeduShopOnline\TeduShop.Data\bin\Debug\EntityFramework.dll
+F:\SourceTree\TeduShopOnline\TeduShop.Data\bin\Debug\EntityFramework.SqlServer.dll
+F:\SourceTree\TeduShopOnline\TeduShop.Data\bin\Debug\TeduShop.Common.dll
+F:\SourceTree\TeduShopOnline\TeduShop.Data\bin\Debug\TeduShop.Model.dll
+F:\SourceTree\TeduShopOnline\TeduShop.Data\bin\Debug\TeduShop.Common.pdb
+F:\SourceTree\TeduShopOnline\TeduShop.Data\bin\Debug\TeduShop.Model.pdb
+F:\SourceTree\TeduShopOnline\TeduShop.Data\bin\Debug\EntityFramework.xml
+F:\SourceTree\TeduShopOnline\TeduShop.Data\bin\Debug\EntityFramework.SqlServer.xml
+F:\SourceTree\TeduShopOnline\TeduShop.Data\obj\Debug\TeduShop.Data.csproj.GenerateResource.Cache
+F:\SourceTree\TeduShopOnline\TeduShop.Data\obj\Debug\TeduShop.Data.Migrations.InitialDB.resources

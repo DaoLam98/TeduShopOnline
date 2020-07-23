@@ -19,6 +19,8 @@ namespace TeduShop.Model.Models
         public string URL { set; get; }
 
         public int? DisplayOrder { set; get; }
+
+        [Required]
         public int GroupID { set; get; }
 
         [ForeignKey("GroupID")]
